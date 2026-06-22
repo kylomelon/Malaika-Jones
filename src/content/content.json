@@ -1,0 +1,297 @@
+{
+  "site": {
+    "name": "Malaika Jones",
+    "role": "UGC Creator, Model & Actress",
+    "location": "South Africa to South Korea",
+    "email": "malaika.jones30@gmail.com",
+    "intro": "I am a Korea-based South African content creator sharing authentic insights into daily life in South Korea from a global perspective. I create engaging, informative, and visually clean content that bridges Korean culture with international audiences.",
+    "bio": "From navigating daily life to maintaining curly hair, tech UGC, to beauty clinics and make-up tips, I document real experiences that resonate with foreigners, travelers, and globally curious audiences.",
+    "heroImage": "/uploads/hero-landscape.jpg",
+    "portraitImage": "/uploads/portrait.jpg",
+    "socials": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/amals30_/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@malaikajones?is_from_webapp=1&sender_device=pc"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@malaikajones4633?si=y9GrrO7Knrws2xky"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "value": "7 days",
+      "label": "typical delivery after we agree"
+    },
+    {
+      "value": "4 lanes",
+      "label": "beauty, hair, tech, Korea lifestyle"
+    },
+    {
+      "value": "Global",
+      "label": "perspective I bring to your campaign"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Beauty",
+      "description": "Skincare, makeup, beauty clinic, product explainers, and routine focused UGC with a clean social feel."
+    },
+    {
+      "name": "Hair",
+      "description": "Curly hair care, styling tools, wash day routines, and product demos framed around real use."
+    },
+    {
+      "name": "Tech",
+      "description": "AI tools, everyday tech, and digital habits become clear content people can actually use."
+    },
+    {
+      "name": "Life in Korea",
+      "description": "Travel, culture, language advice, visa tips, judo, and helpful Korea recommendations for foreigners."
+    }
+  ],
+  "portfolio": [
+    {
+      "title": "Korean Skin Clinic Story",
+      "category": "Beauty",
+      "thumbnail": "/uploads/video-beauty-1.jpg",
+      "url": "https://www.tiktok.com/@malaikajones/video/7650403776876088584",
+      "platform": "TikTok",
+      "featured": true,
+      "description": "This skin clinic walkthrough uses a clear hook, polished pacing, and helpful beauty care education."
+    },
+    {
+      "title": "MiraDry Skin Clinic Visit",
+      "category": "Beauty",
+      "thumbnail": "/uploads/video-beauty-1.jpg",
+      "url": "https://www.tiktok.com/@malaikajones/video/7651539114734488840",
+      "platform": "TikTok",
+      "featured": true,
+      "description": "A Korean clinic feature focused on miraDry, summer beauty prep, and clear location based treatment storytelling."
+    },
+    {
+      "title": "Morning Olive Oil Routine",
+      "category": "Beauty",
+      "thumbnail": "/uploads/video-beauty-1.jpg",
+      "url": "https://www.tiktok.com/@malaikajones/video/7612530746548374791",
+      "platform": "TikTok",
+      "featured": true,
+      "description": "A wellness routine video that brings extra virgin olive oil into a calm morning habit with clean product visibility."
+    },
+    {
+      "title": "Makeup Before And After",
+      "category": "Beauty",
+      "thumbnail": "/uploads/video-beauty-1.jpg",
+      "url": "https://www.tiktok.com/@malaikajones/video/7619682209485737237",
+      "platform": "TikTok",
+      "featured": true,
+      "description": "A simple before and after makeup comparison that shows the product finish clearly while keeping the transformation natural."
+    },
+    {
+      "title": "Private Body Scrub Spa",
+      "category": "Beauty",
+      "thumbnail": "/uploads/video-beauty-1.jpg",
+      "url": "https://www.tiktok.com/@malaikajones/video/7635686545910942984",
+      "platform": "TikTok",
+      "featured": true,
+      "description": "A private beauty spa story that makes Korean body scrub care feel approachable, comfortable, and easy to book."
+    },
+    {
+      "title": "Korean Sunscreen Product Demo",
+      "category": "Beauty",
+      "thumbnail": "/uploads/video-beauty-1.jpg",
+      "url": "https://www.tiktok.com/@malaikajones/video/7560715756007165191",
+      "platform": "TikTok",
+      "featured": true,
+      "description": "A sunscreen product demo that keeps the routine simple, warm, and focused on why the product fits daily skin care."
+    },
+    {
+      "title": "Curl Refresh Routine",
+      "category": "Hair",
+      "thumbnail": "/uploads/video-beauty-1.jpg",
+      "url": "https://www.tiktok.com/@malaikajones/video/7650059482625592584",
+      "platform": "TikTok",
+      "featured": true,
+      "description": "A curl refresh routine that gives hair products clear screen time while keeping each step easy to follow."
+    },
+    {
+      "title": "Curly Hair Inspiration",
+      "category": "Hair",
+      "thumbnail": "/uploads/video-beauty-1.jpg",
+      "url": "https://www.tiktok.com/@malaikajones/video/7612581915266436370",
+      "platform": "TikTok",
+      "featured": true,
+      "description": "A playful hairstyle video that turns a creator inspired look into relatable curl content with personality."
+    },
+    {
+      "title": "Care Curl Routine",
+      "category": "Hair",
+      "thumbnail": "/uploads/video-beauty-1.jpg",
+      "url": "https://www.tiktok.com/@malaikajones/video/7610817407698865426",
+      "platform": "TikTok",
+      "featured": true,
+      "description": "A curly hair routine built around product layering, definition, and a natural finish viewers can picture using themselves."
+    },
+    {
+      "title": "Smart Watch Everyday Demo",
+      "category": "Tech",
+      "thumbnail": "/uploads/video-beauty-1.jpg",
+      "url": "https://www.tiktok.com/@malaikajones/video/7610077898938010898",
+      "platform": "TikTok",
+      "featured": true,
+      "description": "A casual smart watch demo that makes wearable tech feel useful, personal, and easy to understand."
+    },
+    {
+      "title": "Perfume Studio Review",
+      "category": "Tech",
+      "thumbnail": "/uploads/video-beauty-1.jpg",
+      "url": "https://www.tiktok.com/@malaikajones/video/7563317867861576967",
+      "platform": "TikTok",
+      "featured": true,
+      "description": "A Seoul perfume studio experience with a direct recommendation and clear location details."
+    },
+    {
+      "title": "Rettre Perfume Making",
+      "category": "Life in Korea",
+      "thumbnail": "/uploads/video-beauty-1.jpg",
+      "url": "https://www.tiktok.com/@malaikajones/video/7651146723091385607",
+      "platform": "TikTok",
+      "featured": true,
+      "description": "A Seoul perfume making recommendation with English service details for international visitors."
+    },
+    {
+      "title": "Nammireuksa Temple Trip",
+      "category": "Life in Korea",
+      "thumbnail": "/uploads/video-beauty-1.jpg",
+      "url": "https://www.tiktok.com/@malaikajones/video/7502432092907703559",
+      "platform": "TikTok",
+      "featured": true,
+      "description": "A Korea travel moment sharing a temple visit, flower season timing, and helpful location context."
+    },
+    {
+      "title": "Yangyang Beach Visit",
+      "category": "Life in Korea",
+      "thumbnail": "/uploads/video-beauty-1.jpg",
+      "url": "https://www.tiktok.com/@malaikajones/video/7515795353380064519",
+      "platform": "TikTok",
+      "featured": true,
+      "description": "A coastal Korea travel clip showing the feel of a Yangyang beach day."
+    },
+    {
+      "title": "Judo Uniform Update",
+      "category": "Life in Korea",
+      "thumbnail": "/uploads/video-beauty-1.jpg",
+      "url": "https://www.tiktok.com/@malaikajones/video/7528812378687900936",
+      "platform": "TikTok",
+      "featured": true,
+      "description": "A personal judo update that brings a different side of daily life and competition prep into the feed."
+    },
+    {
+      "title": "Life in Korea Q&A",
+      "category": "Life in Korea",
+      "thumbnail": "/uploads/video-beauty-1.jpg",
+      "url": "https://www.tiktok.com/@malaikajones/video/7579643584333237522",
+      "platform": "TikTok",
+      "featured": true,
+      "description": "A helpful life in Korea post inviting questions from viewers who want practical guidance."
+    },
+    {
+      "title": "Life in Korea Moment",
+      "category": "Life in Korea",
+      "thumbnail": "/uploads/video-beauty-1.jpg",
+      "url": "https://www.tiktok.com/@malaikajones/video/7554402624062213384",
+      "platform": "TikTok",
+      "featured": true,
+      "description": "A casual personal moment that keeps the Life in Korea category feeling human and current."
+    }
+  ],
+  "brands": [
+    {
+      "name": "Seon Collective",
+      "logo": "/uploads/brand-logo-1.png",
+      "image": "/uploads/ig-seoul-forest-testimonial.jpg",
+      "description": "The campaign story centered a Korean skin clinic experience, highlighting beauty care access inside one polished creator narrative."
+    },
+    {
+      "name": "Ollocdam",
+      "logo": "/uploads/brand-logo-2.png",
+      "image": "/uploads/brand-collab-image.png",
+      "description": "Beauty and wellness product content designed for social platforms and international audiences."
+    },
+    {
+      "name": "Svit",
+      "logo": "/uploads/brand-logo-svit.png",
+      "image": "/uploads/brand-collab-image.png",
+      "description": "Product focused skincare visuals with clean framing and a campaign ready presentation style."
+    },
+    {
+      "name": "Unniguide",
+      "logo": "",
+      "image": "/uploads/video-beauty-1.jpg",
+      "description": "Korea based experience content with an educational hook and clear location storytelling."
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "We really enjoyed working with Malaika on a video introducing a Korean skin clinic experience. The content was produced with a very high level of care and attention to detail. What stood out most was how smoothly she structured the story while keeping the clinic information clear, polished, informative, and authentic.",
+      "author": "Seon Collective",
+      "company": "Brand Partner"
+    }
+  ],
+  "rates": {
+    "packages": [
+      {
+        "name": "1 UGC Video",
+        "price": "100,000 won",
+        "detail": "Up to 60 seconds"
+      },
+      {
+        "name": "3 UGC Videos",
+        "price": "10% discount",
+        "detail": "Best if you want to test angles"
+      },
+      {
+        "name": "5 UGC Videos",
+        "price": "15% discount",
+        "detail": "Best if you want a full content set"
+      },
+      {
+        "name": "1 UGC Photo",
+        "price": "50,000 won",
+        "detail": "Edited image for social use"
+      }
+    ],
+    "addons": [
+      {
+        "name": "Paid Media Usage",
+        "price": "20% x base rate x months",
+        "detail": "Usage for ads and paid placements"
+      },
+      {
+        "name": "Whitelisting",
+        "price": "Same as paid media",
+        "detail": "Run content through creator handle"
+      },
+      {
+        "name": "Exclusivity",
+        "price": "x2 base rate per month",
+        "detail": "Category exclusivity"
+      },
+      {
+        "name": "Perpetuity",
+        "price": "x2 base rate",
+        "detail": "Ongoing usage rights"
+      },
+      {
+        "name": "Raw Footage",
+        "price": "x1.5 base rate",
+        "detail": "Unedited campaign footage"
+      }
+    ]
+  }
+}
