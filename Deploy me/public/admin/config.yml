@@ -1,0 +1,102 @@
+backend:
+  name: git-gateway
+  branch: main
+
+local_backend: true
+
+media_folder: public/uploads
+public_folder: /uploads
+
+site_url: /
+display_url: /
+logo_url: /uploads/hero-landscape.jpg
+
+collections:
+  - name: website
+    label: Website Content
+    files:
+      - name: content
+        label: Main Website Content
+        file: src/content/content.json
+        format: json
+        fields:
+          - label: Site
+            name: site
+            widget: object
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Role, name: role, widget: string }
+              - { label: Location, name: location, widget: string }
+              - { label: Email, name: email, widget: string }
+              - { label: Intro, name: intro, widget: text }
+              - { label: Bio, name: bio, widget: text }
+              - { label: Hero Image, name: heroImage, widget: image }
+              - { label: Portrait Image, name: portraitImage, widget: image }
+              - label: Social Links
+                name: socials
+                widget: list
+                fields:
+                  - { label: Label, name: label, widget: string }
+                  - { label: URL, name: url, widget: string }
+          - label: Stats
+            name: stats
+            widget: list
+            fields:
+              - { label: Value, name: value, widget: string }
+              - { label: Label, name: label, widget: string }
+          - label: Categories
+            name: categories
+            widget: list
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Description, name: description, widget: text }
+          - label: Portfolio
+            name: portfolio
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - { label: Title, name: title, widget: string }
+              - label: Category
+                name: category
+                widget: select
+                options: ["Beauty", "Hair", "Tech", "Life in Korea"]
+              - { label: Thumbnail, name: thumbnail, widget: image }
+              - { label: TikTok/YouTube Video or Social URL, name: url, widget: string, required: false }
+              - { label: Platform, name: platform, widget: string, required: false }
+              - { label: Featured, name: featured, widget: boolean, default: false }
+              - { label: Description, name: description, widget: text }
+          - label: Brands
+            name: brands
+            widget: list
+            summary: "{{fields.name}}"
+            fields:
+              - { label: Brand Name, name: name, widget: string }
+              - { label: Logo, name: logo, widget: image, required: false }
+              - { label: Campaign Image, name: image, widget: image, required: false }
+              - { label: Description, name: description, widget: text }
+          - label: Testimonials
+            name: testimonials
+            widget: list
+            summary: "{{fields.author}}"
+            fields:
+              - { label: Quote, name: quote, widget: text }
+              - { label: Author, name: author, widget: string }
+              - { label: Company, name: company, widget: string }
+          - label: Rates
+            name: rates
+            widget: object
+            fields:
+              - label: Packages
+                name: packages
+                widget: list
+                fields:
+                  - { label: Name, name: name, widget: string }
+                  - { label: Price, name: price, widget: string }
+                  - { label: Detail, name: detail, widget: string }
+              - label: Add-ons
+                name: addons
+                widget: list
+                fields:
+                  - { label: Name, name: name, widget: string }
+                  - { label: Price, name: price, widget: string }
+                  - { label: Detail, name: detail, widget: string }
